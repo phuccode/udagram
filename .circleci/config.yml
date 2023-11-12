@@ -1,7 +1,7 @@
 version: 2.1
 
 jobs:
-  project3-app:
+  udagram-app:
     docker:
       - image: circleci/node:14.17.6
     steps:
